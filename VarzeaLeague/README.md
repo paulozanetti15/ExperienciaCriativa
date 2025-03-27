@@ -1,1 +1,0 @@
-baixar dependências "npm i"
